@@ -7,6 +7,8 @@ int main() {
 
     printf("%c", c);
 
+    printf("%d\n", c);
+
 
     return 0;
 }
