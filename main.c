@@ -1,6 +1,12 @@
 #include <stdio.h>
 
-int main(void) {
-    printf("Hello, World!\n");
+int main() {
+
+    char c;
+    scanf("%c", &c);
+
+    printf("%c", c);
+
+
     return 0;
 }
